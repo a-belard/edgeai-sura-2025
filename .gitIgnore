@@ -1,0 +1,16 @@
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+/bin/
+# Compiled Python files
+/__pycache__/
+# Python cache directories
+*.py[cod]
+
+
+/lib/
+# Python bytecode files
+*.pyc
+# Python cache files
+*.pyo
