@@ -1,0 +1,10 @@
+tensorflow==2.16.2
+numpy==1.26.4
+pillow==11.2.1
+psutil==7.0.0
+pandas==2.2.3
+matplotlib
+seaborn==0.13.2
+statistics
+requests==2.32.3
+tqdm==4.67.1

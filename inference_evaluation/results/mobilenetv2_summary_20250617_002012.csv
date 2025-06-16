@@ -1,0 +1,2 @@
+Model,Device_Tier,Model_Size_MB,Mean_Inference_Time_ms,Std_Inference_Time_ms,P95_Inference_Time_ms,Mean_Memory_Usage_MB,Peak_Memory_Usage_MB,Mean_CPU_Usage_Percent,Cold_Start_Overhead_ms,Max_Throughput_imgs_per_sec,Efficiency_No_Network_Percent,Efficiency_500ms_Network_Percent
+MobileNetV2,Laptop (Tier 2),3.412017822265625,40.432088199999946,17.38714606949696,73.2850247500001,384.7091796875,384.71484375,62.985000000000014,4.967209200002287,59.21758085555023,99.95192917257259,1.9706208687585072
