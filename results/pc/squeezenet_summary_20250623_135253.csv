@@ -1,0 +1,2 @@
+Model,Device_Tier,Device_Type,Model_Size_MB,Quantized,Mean_Inference_Time_ms,Std_Inference_Time_ms,P95_Inference_Time_ms,Mean_Memory_Usage_MB,Peak_Memory_Usage_MB,Mean_CPU_Usage_Percent,GPU_Memory_MB,Cold_Start_Overhead_ms,Max_Throughput_imgs_per_sec,Efficiency_No_Network_Percent,Efficiency_500ms_Network_Percent
+SqueezeNet,Laptop (Tier 2),cpu,4.713043212890625,False,26.50707136,4.979454291263033,34.55716200000034,254.55109375,254.5703125,195.32999999999996,0,6.015652400000704,36.50440296980287,99.96809266133243,2.6971599991806925

@@ -1,0 +1,2 @@
+model_name,device_tier,mean_inference_time,mean_memory_usage,max_throughput,model_size_mb
+SqueezeNet,Tier 2 (Laptop - macOS),33.83272036000001,254.462421875,35.28847319349778,4.713043212890625

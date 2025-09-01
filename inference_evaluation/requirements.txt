@@ -8,3 +8,5 @@ seaborn==0.13.2
 statistics
 requests==2.32.3
 tqdm==4.67.1
+torch
+torchvision
