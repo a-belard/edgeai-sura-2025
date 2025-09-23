@@ -1,0 +1,20 @@
+
+RTT Benchmark Summary Report
+Generated: 2025-09-23T13:49:34.444871
+Server: http://edgeai.qatar.cmu.edu:8000
+
+=== Latency Performance ===
+Successful Requests: 50/50 (100.0%)
+Mean Total Time: 302.46 ms
+Median Total Time: 294.98 ms
+P95 Total Time: 364.53 ms
+P99 Total Time: 388.95 ms
+
+Mean Server Processing: 1.99 ms
+Mean Network Overhead: 300.48 ms
+Network Overhead %: 99.3%
+
+=== Concurrent Load Performance ===
+1 Users: 3.18 req/s, 313.68ms avg
+2 Users: 6.48 req/s, 302.37ms avg
+4 Users: 11.68 req/s, 325.08ms avg

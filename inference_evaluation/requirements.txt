@@ -10,3 +10,4 @@ requests==2.32.3
 tqdm==4.67.1
 torch
 torchvision
+openpyxl==3.1.5
